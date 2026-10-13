@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clayncode.netlify.app/sitemap.xml
